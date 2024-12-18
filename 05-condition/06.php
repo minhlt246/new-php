@@ -37,7 +37,7 @@ $mon = "";
 			 * Cancer		23/06 - 23/07	Cự Giải
 			 * Leo			24/07 - 23/08	Sư Tử
 			 * Virgo		24/08 - 23/09	Xử Nữ
-			 * Libra		24/09 - 23/10	Thiên Xứng
+			 * Libra		24/09 - 23/10	Thiên Bình
 			 * Scorpio 		24/10 - 22/11	Hổ Cáp
 			 * Sagittarius	23/11 - 22/12	Nhân Mã
 			 */ 
@@ -178,7 +178,7 @@ $mon = "";
 <?php if($flagShowLibra==true && $flagCheckDate==true) {?>
         <div class="result">
         	<img src="images/pisces.jpg" src="pisces" />
-        	<p>Cung Thiên Xứng <span>(Libra - 24/9 - 23/10)</span></p>
+        	<p>Cung Thiên Bình  <span>(Libra - 24/9 - 23/10)</span></p>
         </div>
 <?php }?>   
 

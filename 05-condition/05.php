@@ -67,13 +67,13 @@
 			</div>
 			<div class="row">
 				<p>
-					<?php 
-						if($flag==true){
-							echo "Kết quả " . $n1 . " " . $caculate . " " . $n2 . " = " . $result;
-						} else {
-							echo $result;
-						}
-					?>
+                    <?php
+                    if ($flag == true) {
+                        echo "Kết quả " . $n1 . " " . $caculate . " " . $n2 . " = " . $result;
+                    } else {
+                        echo $result;
+                    }
+                    ?>
 				</p>
 				
 			</div>
